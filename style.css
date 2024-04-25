@@ -5,12 +5,23 @@
     text-decoration: none;
 }
 
+body{
+    background-color: #252525;
+}
+
 header a{
     font-size: 24px;
     color: red;
     margin: 10%;
 }
-#imagemPrincipal, #imagemPrincipal2{
+
+#imagemPrincipal2{
     height: 500px;
     border-radius: 50%;
 }
+
+#imagemPrincipal{
+    height: 500px;
+    border-radius: 50%;
+}
+
